@@ -3,8 +3,8 @@
 ## Status: ACTIVE
 ## Cycle: 366
 ## Phase: 4
-## Tiles Submitted: 6
-## Tiles Accepted: 6
+## Tiles Submitted: 5
+## Tiles Accepted: 4
 ## Last Action: 2026-04-20 16:23 UTC
 
 ## Last Thought
